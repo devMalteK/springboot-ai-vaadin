@@ -2,6 +2,8 @@
 
 inspired by https://www.youtube.com/watch?v=cfm5wtgpf0k
 
+![alt text](https://github.com/devMalteK/springboot-ai-vaadin/blob/main/doc/dev.maltegpt.png)
+
 ## Run local LLM
 
 run ollama docker container
